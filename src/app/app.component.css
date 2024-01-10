@@ -1,0 +1,19 @@
+
+  .nav{
+    display: flex;
+    background-color: #0282AD;
+    color: white;
+    justify-content: center;
+   
+  }
+  .nav-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px 0;
+  }
+  .nav span a {
+    color: white;
+    text-decoration: none;
+  }
